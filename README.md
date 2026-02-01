@@ -53,6 +53,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
 
+## Star History
+
+<a href="https://www.star-history.com/#MyNymm/MyNymm&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=MyNymm/MyNymm&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=MyNymm/MyNymm&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=MyNymm/MyNymm&type=date&legend=top-left" />
+ </picture>
+</a>
+
 ###
 
 <div align="center">
